@@ -1,17 +1,25 @@
 Kāds varētu būt projekta nosaukums?
 
+Gaisa kvalitātes bots
 
 Ko projekts dara vienā teikumā?
 
+Parāda gaisa piesārņojuma līmeni un sniedz ieteikumus.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+Cilvēki ar astmu vai alerģijām nezina, kad ir doši iet ārā vai vingrot.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
+Cilvēki ar elpošanas ceļu slimībām, spotisti un mazu bērnu vecāki.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+Telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+API: OpenAQ vai AirVisual.
+Gaisa kvalitātes indekss pa pilsētām.
+Ikdienas rīta paziņojums.
