@@ -1,17 +1,27 @@
 Kāds varētu būt projekta nosaukums?
 
+Izdevumu izsekotājs.
 
 Ko projekts dara vienā teikumā?
 
+Izseko izdevumus pa kategoijām un attēlo koopsavilkuma statistiku.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+Pusaudžiem ir grūti plānot savus tēriņus, needzot, cik daudz fiksētu un nejaušu izdevumu viņiem ir.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
+Studenti, pusaudži un cilēki ar ieobežotu budžetu.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+Konsole
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+Izdevuma pievienošana ar katgoiju un summu.
+Visu izdeumu skatīšana.
+Kategorijas kopsailkums.
+Mēneša budžeta iestatīsāna un brīdinājums par tā pārsniegšanu.
+Datu saglabāšana failā.
