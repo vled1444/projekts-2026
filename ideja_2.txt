@@ -23,3 +23,16 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 API: OpenAQ vai AirVisual.
 Gaisa kvalitātes indekss pa pilsētām.
 Ikdienas rīta paziņojums.
+
+1) Cik ļoti mani aizrauj šī tēma?
+5
+2) Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+4
+3) Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+5
+4) Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+5
+5) Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+5
+
+24
