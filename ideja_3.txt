@@ -1,17 +1,26 @@
 Kāds varētu būt projekta nosaukums?
 
+Valūtas kusi un daba a tiem.
 
 Ko projekts dara vienā teikumā?
 
+Cilvēki pastāvīgi manuāli pārrēķina summas un aprēķina konvertācijas.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+Cilvēki pastāvīgi manuāli pārrēķina summas, iepērkoties vai ceļojot
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
 
+Ceļotāji, ārštata darbinieki, kas saņem samaksu ārvalstu valūtā, un uzņēmēji
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+Telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+Mēneša alutas kursa diagramma
+Konvetēt summu
+Galvnās valūtas, kas šajā dienā mainījās visvairāk.
+API: exchangerate-api.com
