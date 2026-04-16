@@ -24,3 +24,16 @@ Mēneša alutas kursa diagramma
 Konvetēt summu
 Galvnās valūtas, kas šajā dienā mainījās visvairāk.
 API: exchangerate-api.com
+
+1) Cik ļoti mani aizrauj šī tēma?
+3
+2) Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+5
+3) Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+3
+4) Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+4
+5) Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+4
+
+19
