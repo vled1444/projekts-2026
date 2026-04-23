@@ -20,7 +20,7 @@ Telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
-API: OpenAQ vai AirVisual.
+API: open-meteo.com/en/docs/air-quality-api?hourly=&latitude=56.946&longitude=24.1059.
 Gaisa kvalitātes indekss pa pilsētām.
 Ikdienas rīta paziņojums.
 
